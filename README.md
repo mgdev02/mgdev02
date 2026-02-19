@@ -6,7 +6,7 @@
   <br />
 
   <h1>Martín Gutiérrez</h1>
-  <p><strong>Full-Stack Developer | Technical Support | Automation Specialist</strong></p>
+  <p><strong>Full-Stack Developer | Automation Specialist | Builder</strong></p>
 
   <!-- Contact Buttons -->
   <p>
@@ -21,48 +21,33 @@
 ### 👨‍💻 Profile
 > "I focus on creating technological solutions that optimize processes and save time. My approach combines full-stack development, automation, and smart workflows."
 
-Currently building at **Piscina Natural Srl** and leading **ENCAXA**, my personal venture focused on **n8n** automation and software integrations.
-
 ---
 
-### 🛠 Tech Stack (Core)
+### 🛠 Tech Stack & Mindset
 
-| Area | Technologies |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Frontend** | `React` `Vite` `Framer Motion` `JavaScript` `HTML5` `CSS3` |
-| **Backend** | `Python` `Django` `REST APIs` `Node.js` |
-| **Databases** | `MySQL` `PostgreSQL` |
-| **DevOps & Tools** | `Docker` `VPS` `Google Cloud` `Git` `n8n` `Scrum` |
+| **Core Dev** | `React` `Vite` `Node.js` `Python` `Django` `REST APIs` |
+| **Automation** | `n8n` `Integrations` `Workflow Design` `APIs` |
+| **Soft Skills** | `Problem Solving` `Self-Taught` `Adaptability` `Critical Thinking` |
+| **Mindset** | `Detail-Oriented` `Efficiency-Driven` `Team Collaboration` |
 
 ---
 
-### 💼 Work Experience
-
-- **Full Stack Developer** @ *Piscina Natural Srl* `Mar 2024 - Present`
-  - Developed custom tech solutions and sales tracking platforms.
-  - Implemented scalable APIs and integrated apps within the corporate ecosystem.
-- **Technical Support & Electronic Production** @ *Piscina Natural Srl* `2022 - Present`
-  - Firmware programming and electrochemical sensor calibration (pH/ORP).
-  - Electronic fault diagnosis and specialized technical support.
-
----
-
-### 🎓 Education & Certifications
-
-- 🛡️ **Cybersecurity and AI** (In Progress) - *ISFT N° 172* `2025`
-- 🐍 **Python Full Stack Development** - *Coderhouse* `2023`
-- 🖥️ **Ethical Hacking and Pentesting** - *Udemy* `2024`
-- ⚙️ **Computer Technician** (Java, Networking, Hardware) - *ITNSI*
-
----
-
-### 📊 GitHub Activity
-
+### 📈 GitHub Contribution Snake
 <div align="center">
-  <!-- Replace 'mgdev02' with your actual username if different -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mgdev02&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&locale=en" alt="Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgdev02&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&langs_count=6" alt="Top Languages" />
+  <!-- Este es un gráfico animado que "come" tus contribuciones -->
+  <img src="https://raw.githubusercontent.com/mgdev02/mgdev02/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
+---
+
+### 📊 GitHub Metrics
+<div align="center">
+  <!-- Contadores simples y fiables -->
+  <img src="https://img.shields.io/github/followers/mgdev02?label=Followers&style=flat-square&color=000000" />
+  <img src="https://img.shields.io/github/directory-file-count/mgdev02/new_portfolio?label=Portfolio%20Files&style=flat-square&color=000000" />
+  <img src="https://img.shields.io/github/languages/top/mgdev02/new_portfolio?style=flat-square&color=000000" />
 </div>
 
 ---
