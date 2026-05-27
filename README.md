@@ -11,8 +11,7 @@
   <!-- Contact Buttons -->
   <p>
     <a href="https://www.linkedin.com/in/a-martingutierrez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:martin@encaxa.com.ar"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://wa.me/5491158049217"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="mailto:mtngutierrez.dev@gmailcom"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -29,52 +28,66 @@
   <p><i>"No me caso con ninguna tecnología; elijo la herramienta adecuada según las necesidades del proyecto. Me enfoco en resolver problemas complejos con criterio técnico y agilidad, priorizando siempre la resiliencia del sistema y la mejor experiencia de usuario posible."</i></p>
 
   <br />
+  <br />
 
-  <table border="0" style="border-collapse: collapse; width: 100%; max-width: 800px; text-align: center;">
-    <tr>
-      <td align="center" style="padding: 15px; border: none;">
-        <strong>⚙️ CORE BACKEND & PROTOCOLS</strong><br />
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=eclipse-mosquitto&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTTP-000000?style=flat-square" /><br />
-        <small>Comprensión de fundamentos en C / C++ para entornos embebidos e IoT</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px; border: none;">
-        <strong>🎨 FRONTEND ARCHITECTURE & DESIGN</strong><br />
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" /><br />
-        <small>Enfoque obsesivo en UI/UX: interfaces intuitivas y de baja latencia</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px; border: none;">
-        <strong>💾 DATA & RESILIENCE</strong><br />
-        <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/SSH_Tunneling-000000?style=flat-square&logo=gnome-terminal&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cron_Jobs-000000?style=flat-square" /><br />
-        <small>Manejo de flujos de datos complejos y arquitecturas tolerantes a fallos</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px; border: none;">
-        <strong>🚀 DEVOPS & LEAN DEVELOPMENT</strong><br />
-        <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker_Compose-000000?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/VPS_Admin-000000?style=flat-square&logo=linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" /><br />
-        <small>Desarrollo acelerado e inteligente en Cursor, optimizando entregas con criterio de producción</small>
-      </td>
-    </tr>
-  </table>
+  <!-- CATEGORÍA 1 -->
+  <span><strong>⚙️ CORE BACKEND & PROTOCOLS</strong></span>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=eclipse-mosquitto&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/HTTP-000000?style=flat-square" />
+  <br />
+  <aside><small>Comprensión de fundamentos en C / C++ para entornos embebidos e IoT</small></aside>
+
+  <br />
+  <br />
+  <br />
+
+  <!-- CATEGORÍA 2 -->
+  <span><strong>🎨 FRONTEND ARCHITECTURE & DESIGN</strong></span>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <br />
+  <aside><small>Enfoque obsesivo en UI/UX: interfaces intuitivas y de baja latencia</small></aside>
+
+  <br />
+  <br />
+  <br />
+
+  <!-- CATEGORÍA 3 -->
+  <span><strong>💾 DATA & RESILIENCE</strong></span>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/SSH_Tunneling-000000?style=flat-square&logo=gnome-terminal&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/Cron_Jobs-000000?style=flat-square" />
+  <br />
+  <aside><small>Manejo de flujos de datos complejos y arquitecturas tolerantes a fallos</small></aside>
+
+  <br />
+  <br />
+  <br />
+
+  <!-- CATEGORÍA 4 -->
+  <span><strong>🚀 DEVOPS & LEAN DEVELOPMENT</strong></span>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/Docker_Compose-000000?style=flat-square&logo=docker&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/VPS_Admin-000000?style=flat-square&logo=linux&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=openai&logoColor=white" />  &nbsp;
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+  <br />
+  <aside><small>Desarrollo acelerado e inteligente apoyado en Cursor, optimizando entregas bajo criterio técnico real</small></aside>
 </div>
 
 ---
