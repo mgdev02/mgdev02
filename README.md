@@ -46,8 +46,8 @@
 <div align="center">
   <!-- Simple and clean metrics -->
   <img src="https://img.shields.io/github/followers/mgdev02?label=Followers&style=flat-square&color=000000" alt="Followers" />
-  <img src="https://img.shields.io/github/directory-file-count/mgdev02/new_portfolio?label=Portfolio%20Files&style=flat-square&color=000000" alt="Portfolio Files" />
-  <img src="https://img.shields.io/github/languages/top/mgdev02/new_portfolio?style=flat-square&color=000000" alt="Top Language" />
+  <img src="https://img.shields.io/badge/Main_Stack-Flask_%7C_React-000000?style=flat-square" alt="Main Stack" />
+  <img src="https://img.shields.io/badge/Environment-Docker-000000?style=flat-square" alt="Environment" />
 </div>
 
 ---
