@@ -23,34 +23,29 @@
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
+### 🛠️ Tech Stack & Philosophy
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Backend** | `Python` `Flask` `SQLite` `MySQL` `Paramiko (SSH)` `REST APIs` |
-| **Frontend** | `React` `Vite` `Socket.IO` `Tailwind CSS` `UI/UX Design` |
-| **DevOps & Infra** | `Docker` `Docker Compose` `VPS Administration` `Git / GitHub` |
-| **Automation & IoT** | `ESP32` `Hardware/Software Integration` `Process Automation` |
+> "No me caso con ninguna tecnología; elijo la herramienta adecuada según las necesidades del proyecto. Me enfoco en resolver problemas complejos con criterio técnico y agilidad, priorizando siempre la resiliencia del sistema y la mejor experiencia de usuario posible."
 
----
-
-### 📈 GitHub Contribution Snake
-<div align="center">
-  <!-- Animated snake graph that "eats" your contributions -->
-  <img src="https://raw.githubusercontent.com/mgdev02/mgdev02/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
-
----
-
-### 📊 GitHub Metrics
-<div align="center">
-  <!-- Simple and clean metrics -->
-  <img src="https://img.shields.io/github/followers/mgdev02?label=Followers&style=flat-square&color=000000" alt="Followers" />
-</div>
-
----
-
-<div align="center">
-  <p><i>"First I get it working, then I get it right."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer&width=1000" alt="Footer Line" />
-</div>
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│  ⚙️ CORE BACKEND & PROTOCOLS                                             │
+│  Python | Flask | REST APIs | WebSockets | MQTT | HTTP                     │
+│  • Comprensión de fundamentos en C / C++ para entornos embebidos y IoT   │
+└──────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🎨 FRONTEND ARCHITECTURE & DESIGN                                       │
+│  JavaScript | TypeScript | React | Next.js | Tailwind CSS                │
+│  • Enfoque obsesivo en UI/UX: interfaces intuitivas y de baja latencia   │
+└──────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│  💾 DATA & RESILIENCE                                                    │
+│  MySQL | SQLite | Paramiko (SSH Tunneling) | Cron Jobs                   │
+│  • Manejo de flujos de datos complejos y arquitecturas tolerantes a fallos│
+└──────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🚀 DEVOPS, INFRASTRUCTURE & LEAN DEV                                    │
+│  Docker | Docker Compose | VPS Administration | Git & GitHub             │
+│  • Desarrollo acelerado e inteligente apoyado en herramientas avanzadas   │
+│    como Cursor, optimizando tiempos de entrega con criterio de producción │
+└──────────────────────────────────────────────────────────────────────────┘
