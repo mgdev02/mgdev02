@@ -6,7 +6,7 @@
   <br />
 
   <h1>Martín Gutiérrez</h1>
-  <p><strong>Software Engineer | Full Stack | Infrastructure & DevOps | IoT Integration</strong></p>
+  <p><strong>Software Developer | Infrastructure & DevOps | IoT Integration</strong></p>
 
   <!-- Contact Buttons -->
   <p>
