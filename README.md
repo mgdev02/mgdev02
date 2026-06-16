@@ -5,7 +5,7 @@
   <br />
   <br />
 
-  <h1>Martín Gutiérrez</h1>
+  <h1>Martin Gutierrez</h1>
   <p><strong>Software Developer | Infrastructure & DevOps | IoT Integration</strong></p>
 
   <!-- Contact Buttons -->
