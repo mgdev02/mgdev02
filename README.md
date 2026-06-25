@@ -1,113 +1,142 @@
 <div align="center">
-  <!-- Status Badge -->
   <img src="https://img.shields.io/badge/Status-Building_In_Public-000000?style=for-the-badge&labelColor=000000" alt="Status" />
-  
+
   <br />
   <br />
 
   <h1>Martin Gutierrez</h1>
-  <p><strong>Software Developer | Infrastructure & DevOps | IoT Integration</strong></p>
+  <p><strong>Software Developer | Full-Stack | Infrastructure | IoT Integration</strong></p>
 
-  <!-- Contact Buttons -->
   <p>
-    <a href="https://www.linkedin.com/in/a-martingutierrez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:martin@encaxa.com.ar"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://martingutierrez.com.ar" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/a-martingutierrez/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:gutierrezalejomartin@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 </div>
 
 ---
 
 ### 👨‍💻 Profile
-> "I build end-to-end tech products, linking robust backend architectures and secure infrastructure with interactive user interfaces. I focus on creating resilient systems capable of handling real-time data flows, even over unstable remote networks."
+
+I’m a Software Developer focused on building end-to-end systems that connect software, infrastructure, data and devices.
+
+I work across full-stack development, backend services, infrastructure, automation and IoT integration, with a strong focus on production-ready solutions, maintainability and real-world operation.
+
+My experience includes building web platforms, integrating APIs, working with remote databases, deploying backend services, managing Linux/VPS environments and connecting software with hardware devices such as ESP32-based systems.
 
 ---
 
-### 🛠️ Tech Stack & Philosophy
+### 🛠️ Tech Stack & Approach
 
 <div align="center">
-  <p><i>"No me caso con ninguna tecnología; elijo la herramienta adecuada según las necesidades del proyecto. Me enfoco en resolver problemas complejos con criterio técnico y agilidad, priorizando siempre la resiliencia del sistema y la mejor experiencia de usuario posible."</i></p>
+  <p>
+    <i>
+      I don’t commit to a single technology stack. I choose tools based on the project’s needs,
+      prioritizing reliability, maintainability and practical solutions that can run in real environments.
+    </i>
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+
+<strong>⚙️ BACKEND, SYSTEMS & PROTOCOLS</strong> <br /> <br />
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />   <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square" />   <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square" />   <img src="https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=eclipse-mosquitto&logoColor=white" />   <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white" />
 
   <br />
   <br />
-
-  <!-- CATEGORÍA 1 -->
-  <span><strong>⚙️ CORE BACKEND, DESKTOP & PROTOCOLS</strong></span>
-  <br />
-  <br />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=eclipse-mosquitto&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white" />
-  <br />
-  <aside><small>Desarrollo de sistemas nativos ultra-optimizados e integración de hardware con entornos embebidos (IoT)</small></aside>
-
-  <br />
-  <br />
-  <br />
-
-  <!-- CATEGORÍA 2 -->
-  <span><strong>🎨 FRONTEND ARCHITECTURE & DESIGN</strong></span>
-  <br />
-  <br />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <br />
-  <aside><small>Enfoque obsesivo en UI/UX: interfaces intuitivas, de baja latencia y alto rendimiento</small></aside>
+  <small>Backend services, APIs, real-time communication and system integration.</small>
 
   <br />
   <br />
   <br />
 
-  <!-- CATEGORÍA 3 -->
-  <span><strong>💾 DATA & RESILIENCE</strong></span>
+<strong>🎨 FRONTEND & USER INTERFACES</strong> <br /> <br />
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />   <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />   <img src="https://img.shields.io/badge/MUI-000000?style=flat-square&logo=mui&logoColor=white" />   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square" />
+
   <br />
   <br />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/SSH_Tunneling-000000?style=flat-square&logo=gnome-terminal&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Cron_Jobs-000000?style=flat-square" />
-  <br />
-  <aside><small>Manejo de flujos de datos complejos y arquitecturas tolerantes a fallos sobre infraestructuras inestables</small></aside>
+  <small>Interactive dashboards, responsive interfaces and frontend architecture adapted to each project.</small>
 
   <br />
   <br />
   <br />
 
-  <!-- CATEGORÍA 4 -->
-  <span><strong>🚀 DEVOPS & INFRASTRUCTURE</strong></span>
+<strong>💾 DATA & PERSISTENCE</strong> <br /> <br />
+
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />   <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />   <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />   <img src="https://img.shields.io/badge/Cache_Strategies-000000?style=flat-square" />
+
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Google_Cloud_(GCP)-000000?style=flat-square&logo=googlecloud&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Linux_VPS-000000?style=flat-square&logo=linux&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+  <small>Relational databases, local persistence, caching and data flows for production systems.</small>
+
   <br />
-  <aside><small>Contenedorización, automatización de despliegues (CI/CD) y gestión eficiente de servidores en la nube</small></aside>
+  <br />
+  <br />
+
+<strong>🚀 INFRASTRUCTURE & DEPLOYMENT</strong> <br /> <br />
+
+<img src="https://img.shields.io/badge/Linux_VPS-000000?style=flat-square&logo=linux&logoColor=white" />   <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />   <img src="https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=white" />   <img src="https://img.shields.io/badge/Gunicorn-000000?style=flat-square" />   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />   <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square" />   <img src="https://img.shields.io/badge/Google_Cloud_Platform-000000?style=flat-square&logo=googlecloud&logoColor=white" />
+
+  <br />
+  <br />
+  <small>Deployment automation, server management and reliable backend environments.</small>
+
+  <br />
+  <br />
+  <br />
+
+<strong>🖥️ DESKTOP, NATIVE APPS & IOT</strong> <br /> <br />
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />   <img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" />   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" />   <img src="https://img.shields.io/badge/Hardware_Integration-000000?style=flat-square" />   <img src="https://img.shields.io/badge/Software--Hardware-000000?style=flat-square" />
+
+  <br />
+  <br />
+  <small>Desktop applications, local-first tools and integration between software and physical devices.</small>
+
 </div>
 
 ---
 
+### 🚀 Featured Projects
+
+#### PX Insights
+
+Web platform for IoT monitoring, focused on real-time metrics, sensor data visualization, report automation and remote device management.
+
+**Tech:** Python · Flask · React · Vite · SQLite/MySQL · Socket.IO · Docker · ESP32
+
+#### Simple Narrator
+
+Desktop application for narrating PDF documents with local voice generation, word-by-word synchronization and translated subtitles without relying on cloud services.
+
+**Tech:** React · TypeScript · Tauri · Rust · PDF.js · WASM · Piper TTS · Argos Translate
+
+---
+
 ### 📈 GitHub Contribution Snake
+
 <div align="center">
-  <!-- Animated snake graph that "eats" your contributions -->
-  <img src="https://raw.githubusercontent.com/mgdev02/mgdev02/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/mgdev02/mgdev02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
 
 ### 📊 GitHub Metrics
+
 <div align="center">
-  <!-- Simple and clean metrics -->
   <img src="https://img.shields.io/github/followers/mgdev02?label=Followers&style=flat-square&color=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Main_Stack-React_%7C_Rust_%7C_Python-000000?style=flat-square" alt="Main Stack" />
-  <img src="https://img.shields.io/badge/Environment-Docker_%7C_GCP-000000?style=flat-square" alt="Environment" />
+  <img src="https://img.shields.io/badge/Main_Stack-React_%7C_Python_%7C_Rust-000000?style=flat-square" alt="Main Stack" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%7C_Infra_%7C_IoT-000000?style=flat-square" alt="Focus" />
 </div>
 
 ---
