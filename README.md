@@ -2,7 +2,7 @@
 
 # Alejo Martín Gutierrez
 
-**Founder & CEO en [Encaxa](https://encaxa.com.ar) · Software Developer**
+**Fundador de [Encaxa](https://encaxa.com.ar) · Software Developer**
 
 Full-Stack · Automatizaciones · Integración de APIs · Infraestructura · IoT  
 <sub>Buenos Aires, Argentina — Building practical software, integrations, and production systems.</sub>
